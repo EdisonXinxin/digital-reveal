@@ -1,0 +1,19 @@
+{
+  "name": "数码揭晓系统 · 宝库版",
+  "short_name": "数码揭晓",
+  "description": "23组号码顺序揭晓系统",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05060c",
+  "theme_color": "#05060c",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
